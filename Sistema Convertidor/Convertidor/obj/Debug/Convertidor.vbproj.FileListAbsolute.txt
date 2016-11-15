@@ -1,0 +1,20 @@
+c:\users\cat\documents\visual studio 2012\Projects\Convertidor\Convertidor\bin\Debug\Convertidor.exe.config
+c:\users\cat\documents\visual studio 2012\Projects\Convertidor\Convertidor\bin\Debug\Convertidor.exe
+c:\users\cat\documents\visual studio 2012\Projects\Convertidor\Convertidor\bin\Debug\Convertidor.pdb
+c:\users\cat\documents\visual studio 2012\Projects\Convertidor\Convertidor\bin\Debug\Convertidor.xml
+c:\users\cat\documents\visual studio 2012\Projects\Convertidor\Convertidor\obj\Debug\Convertidor.Form1.resources
+c:\users\cat\documents\visual studio 2012\Projects\Convertidor\Convertidor\obj\Debug\Convertidor.Resources.resources
+c:\users\cat\documents\visual studio 2012\Projects\Convertidor\Convertidor\obj\Debug\Convertidor.vbproj.GenerateResource.Cache
+c:\users\cat\documents\visual studio 2012\Projects\Convertidor\Convertidor\obj\Debug\Convertidor.exe
+c:\users\cat\documents\visual studio 2012\Projects\Convertidor\Convertidor\obj\Debug\Convertidor.xml
+c:\users\cat\documents\visual studio 2012\Projects\Convertidor\Convertidor\obj\Debug\Convertidor.pdb
+C:\Users\apoyo_deia\Documents\Convertidor\Convertidor\bin\Debug\Convertidor.exe.config
+C:\Users\apoyo_deia\Documents\Convertidor\Convertidor\obj\Debug\Convertidor.exe
+C:\Users\apoyo_deia\Documents\Convertidor\Convertidor\obj\Debug\Convertidor.xml
+C:\Users\apoyo_deia\Documents\Convertidor\Convertidor\obj\Debug\Convertidor.pdb
+C:\Users\apoyo_deia\Documents\Convertidor\Convertidor\bin\Debug\Convertidor.exe
+C:\Users\apoyo_deia\Documents\Convertidor\Convertidor\bin\Debug\Convertidor.pdb
+C:\Users\apoyo_deia\Documents\Convertidor\Convertidor\bin\Debug\Convertidor.xml
+C:\Users\apoyo_deia\Documents\Convertidor\Convertidor\obj\Debug\Convertidor.Form1.resources
+C:\Users\apoyo_deia\Documents\Convertidor\Convertidor\obj\Debug\Convertidor.Resources.resources
+C:\Users\apoyo_deia\Documents\Convertidor\Convertidor\obj\Debug\Convertidor.vbproj.GenerateResource.Cache
